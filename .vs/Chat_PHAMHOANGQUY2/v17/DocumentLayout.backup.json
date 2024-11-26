@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quy\\Downloads\\Chat_PHAMHOANGQUY2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C86BF8BA-B94C-40A2-A11C-5CC89C689ABF}|Server\\Server.csproj|C:\\Users\\quy\\Downloads\\Chat_PHAMHOANGQUY2\\server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C86BF8BA-B94C-40A2-A11C-5CC89C689ABF}|Server\\Server.csproj|solutionrelative:server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B02C52-5847-4C2B-9DBB-FBFE08A66BE7}|Chat_PHAMHOANGQUY2\\Chat_PHAMHOANGQUY2.csproj|C:\\Users\\quy\\Downloads\\Chat_PHAMHOANGQUY2\\chat_phamhoangquy2\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B02C52-5847-4C2B-9DBB-FBFE08A66BE7}|Chat_PHAMHOANGQUY2\\Chat_PHAMHOANGQUY2.csproj|solutionrelative:chat_phamhoangquy2\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B02C52-5847-4C2B-9DBB-FBFE08A66BE7}|Chat_PHAMHOANGQUY2\\Chat_PHAMHOANGQUY2.csproj|C:\\Users\\quy\\Downloads\\Chat_PHAMHOANGQUY2\\chat_phamhoangquy2\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1B02C52-5847-4C2B-9DBB-FBFE08A66BE7}|Chat_PHAMHOANGQUY2\\Chat_PHAMHOANGQUY2.csproj|solutionrelative:chat_phamhoangquy2\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C86BF8BA-B94C-40A2-A11C-5CC89C689ABF}|Server\\Server.csproj|c:\\users\\quy\\downloads\\chat_phamhoangquy2\\server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C86BF8BA-B94C-40A2-A11C-5CC89C689ABF}|Server\\Server.csproj|solutionrelative:server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1B02C52-5847-4C2B-9DBB-FBFE08A66BE7}|Chat_PHAMHOANGQUY2\\Chat_PHAMHOANGQUY2.csproj|C:\\Users\\quy\\Downloads\\Chat_PHAMHOANGQUY2\\chat_phamhoangquy2\\client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1B02C52-5847-4C2B-9DBB-FBFE08A66BE7}|Chat_PHAMHOANGQUY2\\Chat_PHAMHOANGQUY2.csproj|solutionrelative:chat_phamhoangquy2\\client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\quy\\Downloads\\Chat_PHAMHOANGQUY2\\Chat_PHAMHOANGQUY2\\Client.Designer.cs",
+              "RelativeDocumentMoniker": "Chat_PHAMHOANGQUY2\\Client.Designer.cs",
+              "ToolTip": "C:\\Users\\quy\\Downloads\\Chat_PHAMHOANGQUY2\\Chat_PHAMHOANGQUY2\\Client.Designer.cs",
+              "RelativeToolTip": "Chat_PHAMHOANGQUY2\\Client.Designer.cs",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAuwOsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T13:08:54.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Server.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quy\\Downloads\\Chat_PHAMHOANGQUY2\\Server\\Server.cs",
+              "RelativeDocumentMoniker": "Server\\Server.cs",
+              "ToolTip": "C:\\Users\\quy\\Downloads\\Chat_PHAMHOANGQUY2\\Server\\Server.cs [Design]",
+              "RelativeToolTip": "Server\\Server.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T13:00:46.431Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\quy\\Downloads\\Chat_PHAMHOANGQUY2\\Chat_PHAMHOANGQUY2\\Client.cs",
+              "RelativeDocumentMoniker": "Chat_PHAMHOANGQUY2\\Client.cs",
+              "ToolTip": "C:\\Users\\quy\\Downloads\\Chat_PHAMHOANGQUY2\\Chat_PHAMHOANGQUY2\\Client.cs [Design]",
+              "RelativeToolTip": "Chat_PHAMHOANGQUY2\\Client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T13:00:34.159Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\quy\\Downloads\\Chat_PHAMHOANGQUY2\\Chat_PHAMHOANGQUY2\\Client.cs",
+              "RelativeDocumentMoniker": "Chat_PHAMHOANGQUY2\\Client.cs",
+              "ToolTip": "C:\\Users\\quy\\Downloads\\Chat_PHAMHOANGQUY2\\Chat_PHAMHOANGQUY2\\Client.cs",
+              "RelativeToolTip": "Chat_PHAMHOANGQUY2\\Client.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAcwK0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T02:09:39.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\quy\\Downloads\\Chat_PHAMHOANGQUY2\\Server\\Server.cs",
+              "RelativeDocumentMoniker": "Server\\Server.cs",
+              "ToolTip": "C:\\Users\\quy\\Downloads\\Chat_PHAMHOANGQUY2\\Server\\Server.cs",
+              "RelativeToolTip": "Server\\Server.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAMwKUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T02:09:33.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
